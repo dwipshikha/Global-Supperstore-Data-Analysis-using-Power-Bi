@@ -1,1 +1,2 @@
 # Global-Supperstore-Data-Analysis-using-Power-Bi
+Analysis the Dataset and Create an interaction Dashboard. This project aims to extract valuable insights and make data-driven decisions within the context of the superstore's operations and sales, and also helps to enhance its decisions-making processes, streamline operations, and potentially uncover opportunities for growth and efficiency improvements through data-driven insights.
